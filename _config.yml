@@ -2,3 +2,6 @@ logo: Logo-02.png
 Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    
+avatar: "/assets/img/avatar-icon.png"
+round-avatar: true
