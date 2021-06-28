@@ -1,8 +1,5 @@
 # Google Colab Python
+[Volver al Inicio](index.md)
 
-```
-- Pandas
-- Plotly
-- Scikit-learn
-```
+
 
