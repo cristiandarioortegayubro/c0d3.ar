@@ -1,8 +1,8 @@
 ## c0d3.ar
 > Repositorio de Cuadernos Colab
 
-- [Pandas](colabpython.md)
-- [Plotly](colabpython.md)
-- [Scikit-learn](colabpython.md)
+- [Pandas](pandas.md)
+- [Plotly](plotly.md)
+- [Scikit-learn](scikit-learn.md)
 
 
