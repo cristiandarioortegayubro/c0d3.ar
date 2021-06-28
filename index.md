@@ -10,4 +10,3 @@
 - ML Regresión
 - ML Agrupación
 - ML Detección de Anomalías
-- NLP Análisis de Sentimiento
