@@ -1,7 +1,8 @@
 # c0d3.ar
 
-### Colab con Python
+### Colab
 ```
-Pandas DataFrame
+Colab con Python
+Colab con R
 ```
 
