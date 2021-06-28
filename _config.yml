@@ -2,3 +2,5 @@ logo: Logo-02.png
 
 avatar: "/assets/img/avatar-icon.png"
 round-avatar: true
+
+theme: jekyll-theme-minimal
