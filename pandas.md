@@ -1,3 +1,3 @@
-## c0d3.ar -- Colab Python
+## c0d3.ar -- Pandas
 [Volver al Inicio](index.md)
 
