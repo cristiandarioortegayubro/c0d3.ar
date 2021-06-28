@@ -1,3 +1,4 @@
 logo: Logo-02.png
-theme: beautiful
-title:  c0d3.ar
+Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
