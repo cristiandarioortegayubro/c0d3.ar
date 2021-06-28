@@ -1,4 +1,4 @@
-# Recursos en Colab
+# Google Colab Python
 
 ```
 - Pandas
