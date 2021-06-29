@@ -21,4 +21,4 @@
 
 > Mis apuntes
 
-- [Mis apuntes de Python](md/pandas.md)
+- [Mis apuntes de Python](md/python.md)
