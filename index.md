@@ -10,3 +10,5 @@
 - ML Regresión
 - ML Agrupación
 - ML Detección de Anomalías
+
+> Apuntes de código Python
