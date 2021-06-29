@@ -10,3 +10,4 @@
 - ML Regresión
 - ML Agrupación
 - ML Detección de Anomalías
+- [Prueba](html/prueba.html)
