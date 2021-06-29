@@ -12,7 +12,7 @@
 - ML Agrupación
 - ML Detección de Anomalías
 
-> Sitios oficiales
+> Sitios oficiales de los módulos
 
 1. [Sitio oficial del Módulo Pandas](https://pandas.pydata.org)
 1. [Sitio oficial del Módulo Pandas Datareader](https://pandas-datareader.readthedocs.io/en/latest/)
