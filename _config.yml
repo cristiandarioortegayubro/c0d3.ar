@@ -2,3 +2,9 @@ title: " "
 
 logo: img/Logo-02.png
 theme: jekyll-theme-minimal
+
+footer:
+  links:
+    - label: Twitter
+      icon: fab fa-fw fa-twitter-square
+      url: https://twitter.com/ortegayubro
