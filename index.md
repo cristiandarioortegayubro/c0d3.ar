@@ -1,8 +1,8 @@
 > Repositorio de Cuadernos Colab por módulos
 
-- [Pandas](pandas.md)
-- [Plotly](plotly.md)
-- [Scikit-learn](scikit-learn.md)
+- [Pandas](md/pandas.md)
+- [Plotly](md/plotly.md)
+- [Scikit-learn](md/scikit-learn.md)
 
 > Repositorio de Cuadernos Colab por temas
 
