@@ -18,3 +18,7 @@
 1. [Sitio oficial del Módulo Pandas Datareader](https://pandas-datareader.readthedocs.io/en/latest/)
 1. [Sitio oficial del Módulo Ploty](https://plotly.com/python/)
 1. [Sitio oficial del Módulo Scikit-learn](https://scikit-learn.org/stable/)
+
+> Mis apuntes
+
+- [Mis apuntes de Python](md/pandas.md)
