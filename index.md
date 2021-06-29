@@ -12,7 +12,9 @@
 - ML Agrupación
 - ML Detección de Anomalías
 
-> Apuntes de código Python
+> Sitios oficiales
 
-
-
+[Sitio oficial del Módulo Pandas](https://pandas.pydata.org)
+[Sitio oficial del Módulo Pandas Datareader](https://pandas-datareader.readthedocs.io/en/latest/)
+[Sitio oficial del Módulo Ploty](https://plotly.com/python/)
+[Sitio oficial del Módulo Scikit-learn](https://scikit-learn.org/stable/)
