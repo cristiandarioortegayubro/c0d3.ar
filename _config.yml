@@ -3,3 +3,5 @@ title       : " "
 logo        : img/Logo-02.png
 theme       : minima
 
+  social_links:
+    twitter: jekyllrb
