@@ -1,4 +1,4 @@
 title       : " "
 
 logo        : img/Logo-02.png
-remote_theme: yaoyao-liu/minimal-light
+theme       : jekyll-theme-minimal
