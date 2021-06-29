@@ -2,9 +2,3 @@ title       : " "
 
 logo        : img/Logo-02.png
 theme       : jekyll-theme-minimal
-email       : cristiandarioortega@gmail.com
-
-
-header_navigation:
-  - title: Pandas
-    url: /md/
