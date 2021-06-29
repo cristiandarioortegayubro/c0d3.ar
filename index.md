@@ -13,8 +13,5 @@
 
 > Apuntes de código Python
 
-[Pandas](md/pandas.md) {: .btn .btn--primary}
 
-your text here
-{: .alert .alert--primary}
 
