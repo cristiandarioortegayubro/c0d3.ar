@@ -2,6 +2,7 @@ theme: jekyll-theme-hacker
 title: [cristian darío ortega yubro]
 description: Ruta de aprendizaje Python
         
-github: https://github.com/cristiandarioortegayubro/c0d3.ar
+github: 
+  https://github.com/cristiandarioortegayubro/c0d3.ar
 
 #logo: img/Logo-02.png
