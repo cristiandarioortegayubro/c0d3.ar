@@ -2,10 +2,11 @@ theme: jekyll-theme-hacker
 title: cristian darío ortega yubro
 description: Ruta de aprendizaje Python
 
+show_downloads: False
+
 author: Cristian Darío Ortega Yubro
 theme_repository: https://github.com/pages-themes/hacker
         
-github: 
-  " "
+github:  
   
 #logo: img/Logo-02.png
