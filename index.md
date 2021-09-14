@@ -8,7 +8,7 @@
 > Repositorio de Cuadernos Colab por temas
 
 - ML Clasificación
-- ML Regresión
+- [Regresión](md/regresion.md)
 - ML Agrupación
 - ML Detección de Anomalías
 
