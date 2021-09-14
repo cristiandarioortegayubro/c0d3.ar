@@ -1,5 +1,3 @@
-title       : " "
-
-logo        : img/Logo-02.png
-
-theme: mmistakes
+title: " "
+logo: img/Logo-02.png
+theme: minimal-mistakes-jekyll
